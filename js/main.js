@@ -1,7 +1,7 @@
-let fruitJuice = document.querySelector("#orangeJuice");
+let fruitJuice = document.querySelector(".icons");
 
-function colorChange() {
-    this.style.color = 'green';
+function logID() {
+    console.log(this.ID);
 }
 
-fruitJuice.addEventListener('click', colorChange);
+fruitJuice.addEventListener('click', logID);

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 98 98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c30d23;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.11px;
+      }
+    </style>
+  </defs>
+  <g id="coins">
+    <g id="coins-2" data-name="coins">
+      <circle class="cls-1" cx="49" cy="49" r="49"/>
+      <g>
+        <g>
+          <ellipse class="cls-2" cx="66.08" cy="61.16" rx="17.27" ry="17.09" transform="translate(-23.89 64.61) rotate(-44.98)"/>
+          <rect class="cls-2" x="60.34" y="55.36" width="11.48" height="11.6" transform="translate(62.63 -28.82) rotate(45.02)"/>
+        </g>
+        <g>
+          <ellipse class="cls-2" cx="48.22" cy="32.97" rx="17.27" ry="17.09" transform="translate(-9.2 43.74) rotate(-44.98)"/>
+          <rect class="cls-2" x="42.48" y="27.17" width="11.48" height="11.6" transform="translate(37.46 -24.44) rotate(45.02)"/>
+        </g>
+        <g>
+          <ellipse class="cls-2" cx="30.89" cy="62.35" rx="17.27" ry="17.09" transform="translate(-35.04 40.08) rotate(-44.98)"/>
+          <rect class="cls-2" x="25.15" y="56.55" width="11.48" height="11.6" transform="translate(53.16 -3.57) rotate(45.02)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
