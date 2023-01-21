@@ -1,13 +1,13 @@
-let two = document.querySelector("#two");
-let zero = document.querySelector("#zero");
-let two_two = document.querySelector("#two_two");
-let three = document.querySelector("#three");
-let exclamation = document.querySelector("#exclamation");
-let coins = document.querySelector("#coins");
-let decoration = document.querySelector("#decoration");
-let firecracker = document.querySelector("#firecracker");
-let lantern = document.querySelector("#lantern");
-let envelope = document.querySelector("#envelope");
+const two = document.querySelector("#two");
+const zero = document.querySelector("#zero");
+const two_two = document.querySelector("#two_two");
+const three = document.querySelector("#three");
+const exclamation = document.querySelector("#exclamation");
+const coins = document.querySelector("#coins");
+const decoration = document.querySelector("#decoration");
+const firecracker = document.querySelector("#firecracker");
+const lantern = document.querySelector("#lantern");
+const envelope = document.querySelector("#envelope");
 
 function logID() {
     console.log(this.id);
