@@ -33,7 +33,7 @@ p {
 .icons2023 {    
     display:flex;
     flex-wrap: nowrap;
-    justify-content:center;
+    justify-content:space-evenly;
     margin-top: 50px;
 }
 
