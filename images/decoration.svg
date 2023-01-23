@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 98 98">
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 99 99">
   <defs>
     <style>
       .cls-1 {
-        fill: #c30d23;
+        fill: none;
       }
 
-      .cls-2 {
-        fill: none;
+      .cls-1, .cls-2 {
         stroke-miterlimit: 10;
       }
 
-      .cls-2, .cls-3 {
+      .cls-1, .cls-2, .cls-3 {
         stroke: #fff;
+      }
+
+      .cls-1, .cls-3 {
         stroke-width: .75px;
+      }
+
+      .cls-2 {
+        fill: #c30d23;
       }
 
       .cls-3 {
@@ -25,19 +31,19 @@
   </defs>
   <g id="decoration">
     <g>
-      <circle class="cls-1" cx="49" cy="49" r="49"/>
-      <g>
-        <rect class="cls-2" x="32.72" y="15.21" width="32.56" height="32.56" transform="translate(-7.91 43.87) rotate(-45)"/>
-        <text class="cls-3" transform="translate(63.16 23.83) rotate(-180) scale(1.24 1)"><tspan x="0" y="0">福</tspan></text>
-        <line class="cls-2" x1="49" y1="1.52" x2="49" y2="8.46"/>
-        <line class="cls-2" x1="49" y1="54.51" x2="49" y2="90.41"/>
-        <path class="cls-2" d="M56.52,64.04c-8.71-14.11-15.04,0-15.04,0h15.04Z"/>
-        <line class="cls-2" x1="49" x2="49" y2="8.46"/>
-        <line class="cls-2" x1="49" y1="54.51" x2="49" y2="57.77"/>
-        <line class="cls-2" x1="41.48" y1="64.04" x2="41.48" y2="95.7"/>
-        <line class="cls-2" x1="49" y1="64.02" x2="49" y2="95.7"/>
-        <line class="cls-2" x1="56.52" y1="64.04" x2="56.52" y2="95.7"/>
-      </g>
+      <circle class="cls-2" cx="49.5" cy="49.5" r="49"/>
+      <rect class="cls-1" x="33.22" y="15.71" width="32.56" height="32.56" transform="translate(-8.12 44.37) rotate(-45)"/>
+      <line class="cls-1" x1="49.5" y1="2.02" x2="49.5" y2="8.96"/>
+      <line class="cls-1" x1="49.5" y1="55.01" x2="49.5" y2="90.91"/>
+      <path class="cls-1" d="M57.02,64.54c-8.71-14.11-15.04,0-15.04,0h15.04Z"/>
+      <line class="cls-1" x1="49.5" y1=".5" x2="49.5" y2="8.96"/>
+      <line class="cls-1" x1="49.5" y1="55.01" x2="49.5" y2="58.27"/>
+      <line class="cls-1" x1="41.98" y1="64.54" x2="41.98" y2="96.2"/>
+      <line class="cls-1" x1="49.5" y1="64.52" x2="49.5" y2="96.2"/>
+      <line class="cls-1" x1="57.02" y1="64.54" x2="57.02" y2="96.2"/>
     </g>
+  </g>
+  <g id="_图层_26" data-name="图层 26">
+    <text class="cls-3" transform="translate(60.74 22.87) rotate(-180) scale(1.24 1)"><tspan x="0" y="0">福</tspan></text>
   </g>
 </svg>

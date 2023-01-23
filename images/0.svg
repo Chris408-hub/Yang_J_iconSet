@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 98 98">
+<svg id="number_zero" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 98 98">
   <defs>
+
     <style>
       .cls-1 {
         fill: #c30d23;
@@ -11,7 +12,9 @@
         font-family: ArialUnicodeMS, 'Arial Unicode MS';
         font-size: 50px;
       }
+
     </style>
+    
   </defs>
   <g id="_0" data-name="0">
     <g>

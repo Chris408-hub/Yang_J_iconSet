@@ -3,11 +3,11 @@ let zero = document.querySelector("#zero");
 let two_two = document.querySelector("#two_two");
 let three = document.querySelector("#three");
 let exclamation = document.querySelector("#exclamation");
-let coins = document.querySelector("#coins");
-let decoration = document.querySelector("#decoration");
-let firecracker = document.querySelector("#firecracker");
-let lantern = document.querySelector("#lantern");
-let envelope = document.querySelector("#envelope");
+let coins = document.querySelector("#graphic_coins");
+let decoration = document.querySelector("#graphic_decoration");
+let firecracker = document.querySelector("#graphic_firecracker");
+let lantern = document.querySelector("#graphic_lantern");
+let envelope = document.querySelector("#graphic_envelope");
 
 function logID() {
     console.log(this.id);
